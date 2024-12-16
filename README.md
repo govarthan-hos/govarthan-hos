@@ -17,7 +17,7 @@ I'm looking to collaborate on:
 
 ### 📫 How to Reach Me
 Feel free to connect with me:
-- **Email**: govarthan@highonswift.com (replace with your actual email)
+- **Email**: govarthan@highonswift.com
 - **LinkedIn**: [Govarthan](https://linkedin.com/in/govarthanarulmani)
 - **GitHub**: You're already here! 😊
 
